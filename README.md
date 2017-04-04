@@ -3,9 +3,9 @@
 [![Gitter][gitter-image]][gitter-url]
 [![NPM version][npm-image]][npm-url]
 [![NPM downloads][npm-download]][npm-url]
-[![Dependency Status][daviddm-image]][daviddm-url]
+[![Follow @trailsjs on Twitter][twitter-image]][twitter-url]
 
-:package: Trailpack to integrate [Postgrqphql](https://github.com/postgraphql/postgraphql/) into a Trails application
+:package: Trailpack to integrate [Postgraphql](https://github.com/postgraphql/postgraphql/) into a Trails application
 
 ### WARNING : 
 
@@ -136,10 +136,17 @@ You can verify that you installed this Trailpack correctly by enabling the bundl
 **Graphiql must be enabled in the configuration to be turned on**
 
 ## License
-[MIT](https://github.com/jaumard/trailpack-postgraphql/blob/master/LICENSE)
+[MIT](https://github.com/mikehostetler/trailpack-postgraphql/blob/master/LICENSE)
+
+<img src="http://i.imgur.com/dCjNisP.png">
+
+[trails-image]: http://i.imgur.com/zfT2NEv.png
+[trails-url]: http://trailsjs.io
+[gitter-image]: http://img.shields.io/badge/+%20GITTER-JOIN%20CHAT%20%E2%86%92-1DCE73.svg?style=flat-square
+[gitter-url]: https://gitter.im/trailsjs/trails
+[twitter-image]: https://img.shields.io/twitter/follow/trailsjs.svg?style=social
+[twitter-url]: https://twitter.com/trailsjs
 
 [npm-image]: https://img.shields.io/npm/v/trailpack-postgraphql.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/trailpack-postgraphql
 [npm-download]: https://img.shields.io/npm/dt/trailpack-postgraphql.svg
-[gitter-image]: http://img.shields.io/badge/+%20GITTER-JOIN%20CHAT%20%E2%86%92-1DCE73.svg?style=flat-square
-[gitter-url]: https://gitter.im/trailsjs/trails
